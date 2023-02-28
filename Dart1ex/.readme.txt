@@ -1,0 +1,27 @@
+Resolução dos exercicios sobre DART.
+
+Para executar um código DART pelo vscode é necessário entrar no terminal e digitar o seguinte comando:
+"dart compile exe .\(nome do arquivo)"
+
+depois disso será criado um .exe do arquivo compilado
+após isso digite o nome do arquivo compilado
+".\(nome do arquivo).exe"
+
+e pronto, ele será mostrado no terminal.
+
+Obs: Caso voce separe os arquivos .exe em outras pastas será necessário outro código para compilar o arquivo novamente
+"(nome da pasta)/.\(nome do arquivo).exe"
+//--------------------------------------------------------------------------------------------------------------------\\
+Solving the exercises on DART.
+
+To run a Dart code in vscode, you need to enter the terminal and type the following command:
+"dart compile exe .\(file name)"
+
+After that, a compiled file .exe will be created.
+Then, type the name of the compiled file:
+".\(file name).exe"
+
+And that's it, it will be displayed in the terminal.
+
+Note: If you separate the .exe files into other folders, you will need another code to compile the file again
+"(folder name)/.\(file name).exe"
